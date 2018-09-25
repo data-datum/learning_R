@@ -2,15 +2,15 @@
 #load libraries
 library(ggplot2)
 #dataset orange is already in R
-qplot(circumference, age, data=Orange)
+qplot(x=circumference, y=age, data=Orange)
 #line plot
-qplot(circumference, age, data=Orange[Orange$Tree==1,], geom="line")
+qplot(x=circumference, y=age, data=Orange[Orange$Tree==1,], geom="line")
 #boxplot
-qplot(Tree, circumference, data=Orange, geom="boxplot")
+qplot(x=Tree, y=circumference, data=Orange, geom="boxplot")
 #boxplot with individual observations
-qplot(Tree, circumference, data=Orange, geom=c("boxplot", "point"))
+qplot(x=Tree, y=circumference, data=Orange, geom=c("boxplot", "point"))
 #histogram
-qplot(circumference, data=Orange, geom="histogram")
+qplot(x=circumference, data=Orange, geom="histogram")
 
 #ggplot2 
 #explore the data
@@ -32,5 +32,3 @@ ggplot (diamonds, aes(factor(cut), price, fill=cut)) + geom_boxplot() + ggtitle 
 g<-ggplot(diamonds, aes(x=carat, y=price))+geom_point()
 #and then add the layers with other attributes
 g + geom_smooth()
-#and a layer of grids
-g + geom_smooth() + facet_grid(cut~.)
