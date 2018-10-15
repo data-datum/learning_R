@@ -26,6 +26,7 @@
 * Data Visualization in R http://bit.ly/2AaKzy9
 * R graphics with ggplot2 workshop notes http://bit.ly/2AavgG4
 * Data visualization using ggplot2 http://bit.ly/2Aal7ZT
+* ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
 
