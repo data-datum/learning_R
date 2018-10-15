@@ -21,8 +21,8 @@
 ## tidyr and dplyr Package
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
-* dplyr Suzan Baert tutorials http://bit.ly/2AbSHi2
-* dplyr 10 tips and tricks by Suzan Baert (RoCur WeAreRLadies) http://bit.ly/2AaWb4k
+* dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
+* dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
 * Jenny's Bryan STAT 545 Course http://bit.ly/2AajX0o
 * Jenny's Bryan Join Functions http://bit.ly/2AbUZ0C
 * Let the Data Flow: Pipelines in R with dplyr and magrittr http://bit.ly/2AaVDvz
@@ -51,9 +51,9 @@
 
 
 ## purrr Package
-* Happy R Users Purrr – Tutorial by Charlotte Wickham [Video] http://bit.ly/2AakkIv
-* Purr tutorial - Charlotte Wickham http://bit.ly/2AaDCNO
-* Purr tutorial - Jenny Bryan http://bit.ly/2QSVoLC
+* Happy R Users Purrr – Tutorial _Charlotte Wickham_ [Video] http://bit.ly/2AakkIv
+* Purr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
+* Purr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
