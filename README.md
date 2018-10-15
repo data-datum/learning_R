@@ -56,6 +56,20 @@
 * Purr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
 * Purr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
 
+## R Package development
+* Write your first R Package (STAT 545 Course) _Jenny Bryan_ http://bit.ly/2OjiBs2
+* You can make a package in 20 minutes _Jim Hester_ [Video] http://bit.ly/2QR3K5D
+* How to develop good R packages (for open science) _Maëlle Salmon_ http://bit.ly/2QTXgmP
+* Writing an R package from scratch (Not so Standard deviations blogpost) _Hilary Parker_ http://bit.ly/2QOlONO
+* R Package Development Pictorial http://bit.ly/2QP5tbW
+* Developing Packages with RStudio http://bit.ly/2QOav8v
+* Writing an R package from scratch http://bit.ly/2QTWZAj
+* Reproducible Research: Writing an R Package. http://bit.ly/2AarXi0 
+* Advanced R Course (Chapter 6: R Packages) _Florian Privé_ http://bit.ly/2QT53kN
+### Books 
+* R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
+
+
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
 
