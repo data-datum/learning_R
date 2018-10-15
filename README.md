@@ -6,7 +6,7 @@
 * R for Data Science _Garrett Grolemund & Hadley Wickham_ http://bit.ly/2AaFWEw
 * Efficient R programming _Colin Gillespie & Robin Lovelace_ http://bit.ly/2AaGKcw
 * Advanced R _Hadley Wickham_ http://bit.ly/2AapVhT
-* El arte de programar en R [español] http://bit.ly/2N2Y1Y8
+* El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 
 ## Rstudio
 ### Webinars
@@ -23,8 +23,8 @@
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
 * dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
 * dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
-* Jenny's Bryan STAT 545 Course http://bit.ly/2AajX0o
-* Jenny's Bryan Join Functions http://bit.ly/2AbUZ0C
+* STAT 545 Course _Jenny Bryan_ http://bit.ly/2AajX0o
+* Join Functions _Jenny Bryan_  http://bit.ly/2AbUZ0C
 * Let the Data Flow: Pipelines in R with dplyr and magrittr http://bit.ly/2AaVDvz
 * Data Processing with dplyr & tidyr (Rpubs) http://bit.ly/2Aah7Zd
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
