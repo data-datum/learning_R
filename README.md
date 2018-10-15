@@ -19,7 +19,7 @@
 * Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
 
 
-## tidyr and dplyr Package
+## tidyr and dplyr Packages
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
 * dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
@@ -56,7 +56,7 @@
 * Purr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
 * Purr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
 
-## R Package development
+## R Package Development
 * Write your first R Package (STAT 545 Course) _Jenny Bryan_ http://bit.ly/2OjiBs2
 * You can make a package in 20 minutes _Jim Hester_ [Video] http://bit.ly/2QR3K5D
 * How to develop good R packages (for open science) _Maëlle Salmon_ http://bit.ly/2QTXgmP
