@@ -1,7 +1,22 @@
 # learning_R
 
-## R base
-* Book: "El arte de programar en R" http://bit.ly/2N2Y1Y8
+## R Programming
+### Books
+* R Programming for Data Science _Roger D. Peng_ 2016-12-22 http://bit.ly/2AbQRhd
+* R for Data Science _Garrett Grolemund & Hadley Wickham_ http://bit.ly/2AaFWEw
+* Efficient R programming _Colin Gillespie & Robin Lovelace_ http://bit.ly/2AaGKcw
+* Advanced R _Hadley Wickham_ http://bit.ly/2AapVhT
+* El arte de programar en R [español] http://bit.ly/2N2Y1Y8
+
+## Rstudio
+### Webinars
+* Programming - Part 1 (Writing code in RStudio) http://bit.ly/2AaZ4Cf
+* Programming - Part 2 ((Debugging code in RStudio) http://bit.ly/2AaifvV
+* Programming - Part 3 (Package writing in RStudio) http://bit.ly/2AayPfq
+* Managing - Part 1 (Projects in RStudio) http://bit.ly/2Abo3We
+* Managing - Part 2 (Github and RStudio) http://bit.ly/2A9Pu2D
+* Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
+
 
 ## tidyr and dplyr Package
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
@@ -30,6 +45,10 @@
 * ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
+### Books 
+* Data Visualization A practical introduction _Kieran Healy_ http://bit.ly/2AaF9n2
+* Data Visualization with R. _Rob Kabacoff_ http://bit.ly/2A9pLaj
+
 
 ## purrr Package
 * Happy R Users Purrr – Tutorial by Charlotte Wickham [Video] http://bit.ly/2AakkIv
