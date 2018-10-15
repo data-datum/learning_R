@@ -17,7 +17,6 @@
 * Managing - Part 1 (Projects in RStudio) http://bit.ly/2Abo3We
 * Managing - Part 2 (Github and RStudio) http://bit.ly/2A9Pu2D
 * Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
-
 * Debugging techniques in RStudio _Amanda Gadrow_ [video] http://bit.ly/2QQD4C2
 
 
