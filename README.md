@@ -4,7 +4,8 @@
 * Book: "El arte de programar en R" http://bit.ly/2N2Y1Y8
 
 ## tidyr and dplyr Package
-* Webinar by Garret Grolemund source: http://bit.ly/2QSr7vS
+* Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
+* Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
 * dplyr Suzan Baert tutorials http://bit.ly/2AbSHi2
 * dplyr 10 tips and tricks by Suzan Baert (RoCur WeAreRLadies) http://bit.ly/2AaWb4k
 * Jenny's Bryan STAT 545 Course http://bit.ly/2AajX0o
@@ -29,6 +30,11 @@
 * ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
+
+## purrr Package
+* Happy R Users Purrr – Tutorial by Charlotte Wickham [Video] http://bit.ly/2AakkIv
+* Purr tutorial - Charlotte Wickham http://bit.ly/2AaDCNO
+* Purr tutorial - Jenny Bryan http://bit.ly/2QSVoLC
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
