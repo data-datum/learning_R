@@ -2,7 +2,7 @@
 
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
-* Datacamp (Free) Couse Introduction to R http://bit.ly/2QTXMkv
+* Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
 ### Books
 * R Programming for Data Science _Roger D. Peng_ 2016-12-22 http://bit.ly/2AbQRhd
 * R for Data Science _Garrett Grolemund & Hadley Wickham_ http://bit.ly/2AaFWEw
