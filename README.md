@@ -26,6 +26,7 @@
 * Tidy eval: Programming with dplyr, tidyr, and ggplot2 _Hadley Wickham_ [Video] http://bit.ly/2QR07N5
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
 * dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
+* Getting more out of dplyr SatRday Amsterdam 2018 slides _Suzan Baert_ http://bit.ly/2QXf28I
 * dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
 * STAT 545 Course _Jenny Bryan_ http://bit.ly/2AajX0o
 * Join Functions _Jenny Bryan_  http://bit.ly/2AbUZ0C
