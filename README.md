@@ -40,6 +40,7 @@
 * Wrangling with data.table http://bit.ly/2QQfLIy
 * R studio cheatsheet (data.table) http://bit.ly/2IEwRcM
 * Data crunching with data.table (Rpubs) http://bit.ly/2AbNCGz
+* Best packages for data manipulation in R (dplyr & data.table) http://bit.ly/2AenZox
 
 ## ggplot2 Package
 * DataCarpentry resources: http://bit.ly/2Aaiwz2
