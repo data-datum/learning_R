@@ -7,6 +7,7 @@
 * R Programming for Data Science _Roger D. Peng_ 2016-12-22 http://bit.ly/2AbQRhd
 * R for Data Science _Garrett Grolemund & Hadley Wickham_ http://bit.ly/2AaFWEw
 * Efficient R programming _Colin Gillespie & Robin Lovelace_ http://bit.ly/2AaGKcw
+* Hands-On Programming with R _Garrett Grolemund_
 * Advanced R _Hadley Wickham_ http://bit.ly/2AapVhT
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 
