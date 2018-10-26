@@ -105,4 +105,5 @@
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
 
-
+## R-Spatial 
+* Spatial Data Analysis and Modeling with R http://rspatial.org/
