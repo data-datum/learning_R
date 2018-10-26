@@ -111,3 +111,8 @@
 
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
+
+
+## Tutorials from different topics
+
+* The coding club https://ourcodingclub.github.io/tutorials/
