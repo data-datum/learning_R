@@ -102,12 +102,14 @@
 
 ## purrr Package
 * Happy R Users Purrr – Tutorial _Charlotte Wickham_ [Video] http://bit.ly/2AakkIv
-* Purr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
-* Purr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
-
+* Purrr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
+* Purrr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
+* Package CRAN Documentation http://bit.ly/2zbuSFz
+* Purrr as part of the tidyverse http://bit.ly/2z6gFcO
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
+* Jenny Bryan's Talk in RLadies Bs As 6/10/2018 
 
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
