@@ -109,7 +109,7 @@
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
-* Jenny Bryan's Talk in RLadies Bs As 6/10/2018 
+* Jenny Bryan's Talk in RLadies Bs As _Writing R functions for fun and profit_ http://bit.ly/2xMqhsu
 
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
