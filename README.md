@@ -34,6 +34,9 @@
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * dplyr Rstudio cheatsheet http://bit.ly/2IEwRcM
 
+## string manipulation
+
+* String Manipulation in R with stringr (Rpubs) https://rpubs.com/iPhuoc/stringr_manipulation
 
 ## data.table Package 
 * Intro to data.table Package http://bit.ly/2Aa6Yf3
