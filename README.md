@@ -37,6 +37,7 @@
 ## string manipulation
 
 * String Manipulation in R with stringr (Rpubs) https://rpubs.com/iPhuoc/stringr_manipulation
+* Regular Expression in R _Gloria Li and Jenny Bryan_ http://stat545.com/block022_regular-expression.html
 
 ## data.table Package 
 * Intro to data.table Package http://bit.ly/2Aa6Yf3
