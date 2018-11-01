@@ -10,6 +10,11 @@
 * Hands-On Programming with R _Garrett Grolemund_ http://bit.ly/2QYJRJZ
 * Advanced R _Hadley Wickham_ http://bit.ly/2AapVhT
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
+* Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
+
+## string manipulation
+* String Manipulation in R with stringr (Rpubs) https://rpubs.com/iPhuoc/stringr_manipulation
+* Regular Expression in R _Gloria Li and Jenny Bryan_ http://stat545.com/block022_regular-expression.html
 
 ## Rstudio
 ### Webinars
@@ -35,7 +40,6 @@
 * Data Processing with dplyr & tidyr (Rpubs) http://bit.ly/2Aah7Zd
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * dplyr Rstudio cheatsheet http://bit.ly/2IEwRcM
-
 
 ## data.table Package 
 * Intro to data.table Package http://bit.ly/2Aa6Yf3
