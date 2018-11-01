@@ -112,6 +112,8 @@
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
 
+## Reproducible Research 
+* Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 
 ## Tutorials from different topics
 
