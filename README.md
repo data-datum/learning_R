@@ -1,4 +1,4 @@
-# learning_R
+# Learning R - Resources 
 
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
