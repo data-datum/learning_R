@@ -22,8 +22,8 @@
 * Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
 * Debugging techniques in RStudio _Amanda Gadrow_ [video] http://bit.ly/2QQD4C2
 
-
-## tidyr and dplyr Packages
+## Data Manipulation 
+### tidyr and dplyr Packages
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
 * Tidy eval: Programming with dplyr, tidyr, and ggplot2 _Hadley Wickham_ [Video] http://bit.ly/2QR07N5
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
@@ -37,18 +37,19 @@
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * dplyr Rstudio cheatsheet http://bit.ly/2IEwRcM
 
-## data.table Package 
+### data.table Package 
 * Intro to data.table Package http://bit.ly/2Aa6Yf3
 * Wrangling with data.table http://bit.ly/2QQfLIy
 * R studio cheatsheet (data.table) http://bit.ly/2IEwRcM
 * Data crunching with data.table (Rpubs) http://bit.ly/2AbNCGz
 * Best packages for data manipulation in R (dplyr & data.table) http://bit.ly/2AenZox
 
-## String manipulation
+### String manipulation and stringr package 
 * String Manipulation in R with stringr (Rpubs) http://bit.ly/2SzLyiR
 * Regular Expression in R _Gloria Li and Jenny Bryan_ http://bit.ly/2SD74Dg
 
-## ggplot2 Package
+## Data Visualization
+### ggplot2 Package
 * DataCarpentry resources: http://bit.ly/2Aaiwz2
 * Visualización estática e interactiva con ggplot2 y plotly [español] http://bit.ly/2xI2dqH
 * Data Visualization in R http://bit.ly/2AaKzy9
@@ -57,7 +58,7 @@
 * ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
-### Books 
+#### Books 
 * Data Visualization A practical introduction _Kieran Healy_ http://bit.ly/2AaF9n2
 * Data Visualization with R. _Rob Kabacoff_ http://bit.ly/2A9pLaj
 
