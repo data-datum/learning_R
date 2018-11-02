@@ -118,3 +118,4 @@
 ## Tutorials from different topics
 
 * The coding club https://ourcodingclub.github.io/tutorials/
+* The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
