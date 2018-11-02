@@ -12,10 +12,6 @@
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 * Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
 
-## string manipulation
-* String Manipulation in R with stringr (Rpubs) https://rpubs.com/iPhuoc/stringr_manipulation
-* Regular Expression in R _Gloria Li and Jenny Bryan_ http://stat545.com/block022_regular-expression.html
-
 ## Rstudio
 ### Webinars
 * Programming - Part 1 (Writing code in RStudio) http://bit.ly/2AaZ4Cf
@@ -47,6 +43,10 @@
 * R studio cheatsheet (data.table) http://bit.ly/2IEwRcM
 * Data crunching with data.table (Rpubs) http://bit.ly/2AbNCGz
 * Best packages for data manipulation in R (dplyr & data.table) http://bit.ly/2AenZox
+
+## String manipulation
+* String Manipulation in R with stringr (Rpubs) http://bit.ly/2SzLyiR
+* Regular Expression in R _Gloria Li and Jenny Bryan_ http://bit.ly/2SD74Dg
 
 ## ggplot2 Package
 * DataCarpentry resources: http://bit.ly/2Aaiwz2
@@ -119,9 +119,9 @@
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
 
 ## Reproducible Research 
-* Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+* Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
 
 ## Tutorials from different topics
 
-* The coding club https://ourcodingclub.github.io/tutorials/
-* The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
+* The coding club http://bit.ly/2SJzTy7
+* The R class _R programming for biologists_ http://bit.ly/2SD71HA
