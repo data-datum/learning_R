@@ -1,5 +1,7 @@
 # Learning R - Resources 
 
+
+_Last Update_ :
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -27,6 +29,7 @@
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
 * Tidy eval: Programming with dplyr, tidyr, and ggplot2 _Hadley Wickham_ [Video] http://bit.ly/2QR07N5
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
+* Wrangling data in the Tidyverse [Video] (useR! 2018 Conf) [Part 1] http://bit.ly/2SEHDBc [Part 2] http://bit.ly/2SK9EHt
 * dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
 * Getting more out of dplyr SatRday Amsterdam 2018 slides _Suzan Baert_ http://bit.ly/2QXf28I
 * dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
@@ -118,11 +121,11 @@
 
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
+* Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
 
 ## Tutorials from different topics
-
 * The coding club http://bit.ly/2SJzTy7
 * The R class _R programming for biologists_ http://bit.ly/2SD71HA
