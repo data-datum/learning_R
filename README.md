@@ -13,6 +13,7 @@ _Last Update_ : 04-Nov/2018
 * Advanced R _Hadley Wickham_ http://bit.ly/2AapVhT
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 * Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
+* Learning statistics with R: A tutorial for psychology students and other beginners _Danielle Navarro_ http://bit.ly/2DaYoig
 
 ## Rstudio
 ### Webinars
