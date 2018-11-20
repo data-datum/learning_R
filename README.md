@@ -111,6 +111,7 @@
 
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
+* Geocomputation with R _Robin Lovelace, Jakub Nowosad, Jannes Muenchow_ https://geocompr.robinlovelace.net/
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
