@@ -85,7 +85,6 @@
 * bookdown: Authoring Books and Technical Documents with R Markdown _Yihui Xie_ http://bit.ly/2QLTZWq
 * blogdown: Creating Websites with R Markdown _Yihui Xie, Amber Thomas, Alison Presmanes Hill_ http://bit.ly/2QPjCpm
 
-
 ## R Package Development
 * Write your first R Package (STAT 545 Course) _Jenny Bryan_ http://bit.ly/2OjiBs2
 * You can make a package in 20 minutes _Jim Hester_ [Video] http://bit.ly/2QR3K5D
@@ -97,6 +96,7 @@
 * Writing an R package from scratch http://bit.ly/2QTWZAj
 * Reproducible Research: Writing an R Package. http://bit.ly/2AarXi0 
 * Advanced R Course (Chapter 6: R Packages) _Florian Privé_ http://bit.ly/2QT53kN
+
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
 
@@ -111,7 +111,8 @@
 
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
-* Geocomputation with R _Robin Lovelace, Jakub Nowosad, Jannes Muenchow_ https://geocompr.robinlovelace.net/
+* Geocomputation with R _Robin Lovelace, Jakub Nowosad, Jannes Muenchow_ http://bit.ly/2TzxMwU
+* Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
