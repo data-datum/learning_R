@@ -123,6 +123,7 @@ _Last Update_ : 08-Nov/2018
 ## R-Spatial 
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
 * Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
+* Spatial Data Science _Edzer Pebesma, Roger Bivand_ https://keen-swartz-3146c4.netlify.com/
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
