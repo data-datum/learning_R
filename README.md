@@ -105,7 +105,6 @@
 * Purr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
 * Purr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
 
-
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
 
@@ -116,8 +115,11 @@
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+* Archiving a Research Project Website on Zenodo. Opening Reproducible Research. https://o2r.info/2019/02/24/archiving-jekyll-zenodo/
+* Open research software and open source. Eliademy. https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html
 
 ## Tutorials from different topics
 
 * The coding club https://ourcodingclub.github.io/tutorials/
 * The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
+
