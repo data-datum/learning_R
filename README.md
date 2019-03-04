@@ -81,7 +81,8 @@
 ## Bookdown & Blogdown
 * Introducing bookdown [video] http://bit.ly/2AbArpc
 * Introducing blogdown, a new R package to make blogs and websites with R Markdown [video] http://bit.ly/2AamVSt
-* Post of Alison Hill blog https://alison.rbind.io/post/
+* Posts about HUGO and blogdown. Alison Hill blog https://alison.rbind.io/post/
+
 ### Books
 * bookdown: Authoring Books and Technical Documents with R Markdown _Yihui Xie_ http://bit.ly/2QLTZWq
 * blogdown: Creating Websites with R Markdown _Yihui Xie, Amber Thomas, Alison Presmanes Hill_ http://bit.ly/2QPjCpm
