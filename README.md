@@ -126,4 +126,5 @@
 * The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
 * Javascript vs Data science https://software-tools-in-javascript.github.io/js-vs-ds/en/
 * Tutorial: build a blog with Jekyll and GitHub pages https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+* Seascape models. Resources to solve environmental problems.  http://www.seascapemodels.org/code.html
 
