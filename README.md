@@ -124,6 +124,7 @@
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
 * The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
 * Seascape models. Resources to solve environmental problems.  http://www.seascapemodels.org/code.html
+* Reources for Taxonomy and Biodiversity. ROpenSci. https://ropensci.org/blog/2019/03/11/commcall-mar2019/
 
 ## Tutorials from different topics
 
