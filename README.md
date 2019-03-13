@@ -3,6 +3,7 @@
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 ### Books
+* Repository: Books about R programming. https://github.com/RomanTsegelskyi/rbooks
 * R Programming for Data Science _Roger D. Peng_ 2016-12-22 http://bit.ly/2AbQRhd
 * R for Data Science _Garrett Grolemund & Hadley Wickham_ http://bit.ly/2AaFWEw
 * Efficient R programming _Colin Gillespie & Robin Lovelace_ http://bit.ly/2AaGKcw
