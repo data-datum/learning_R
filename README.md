@@ -2,6 +2,7 @@
 
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
+
 ### Books
 * Repository: Books about R programming. https://github.com/RomanTsegelskyi/rbooks
 * R Programming for Data Science _Roger D. Peng_ 2016-12-22 http://bit.ly/2AbQRhd
@@ -120,6 +121,7 @@
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 * Archiving a Research Project Website on Zenodo. Opening Reproducible Research. https://o2r.info/2019/02/24/archiving-jekyll-zenodo/
 * Open research software and open source. Eliademy. https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html
+* Writing articles and reproducible documents R _Anna Quagleri_2019_ https://rpubs.com/annaquagli/471405
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
