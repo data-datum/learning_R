@@ -129,6 +129,7 @@
 ## Educacion
 
 * Repositorio de GitHub sobre fuentes de material https://github.com/rstudio-education/rstats-ed
+* Learn the Tidyverse https://www.tidyverse.org/learn/
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
