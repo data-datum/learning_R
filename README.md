@@ -121,7 +121,14 @@
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 * Archiving a Research Project Website on Zenodo. Opening Reproducible Research. https://o2r.info/2019/02/24/archiving-jekyll-zenodo/
 * Open research software and open source. Eliademy. https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html
-* Writing articles and reproducible documents R _Anna Quagleri_2019_ https://rpubs.com/annaquagli/471405
+* Writing articles and reproducible documents R _Anna Quagleri__2019_ https://rpubs.com/annaquagli/471405
+
+## Data Science
+* Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
+
+## Educacion
+
+* Repositorio de GitHub sobre fuentes de material https://github.com/rstudio-education/rstats-ed
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
@@ -137,4 +144,5 @@
 * Javascript vs Data science https://software-tools-in-javascript.github.io/js-vs-ds/en/
 * Tutorial: build a blog with Jekyll and GitHub pages https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 * Tutorials for multiple programming languajes by Mike Dane https://www.mikedane.com/
+* https://databasic.io/es/
 
