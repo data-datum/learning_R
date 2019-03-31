@@ -12,7 +12,7 @@
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 * Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
 
-## string manipulation
+## String manipulation
 * String Manipulation in R with stringr (Rpubs) https://rpubs.com/iPhuoc/stringr_manipulation
 * Regular Expression in R _Gloria Li and Jenny Bryan_ http://stat545.com/block022_regular-expression.html
 
@@ -25,7 +25,6 @@
 * Managing - Part 2 (Github and RStudio) http://bit.ly/2A9Pu2D
 * Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
 * Debugging techniques in RStudio _Amanda Gadrow_ [video] http://bit.ly/2QQD4C2
-
 
 ## tidyr and dplyr Packages
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
@@ -69,7 +68,6 @@
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 
-
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
 * R Markdown articles http://bit.ly/2A9LfEe
@@ -77,6 +75,7 @@
 * R Markdown and knitr make it easy to intermingle code and text to generate compelling reports and presentations that are never out of date. [video] http://bit.ly/2A9MH9E
 * Beyond static reports with R Markdown [video] http://bit.ly/2Ac2jtd
 * Introducing Notebooks with R Markdown [video] http://bit.ly/2AaYPXH
+
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
 
@@ -126,9 +125,8 @@
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 
-## Educacion
-
-* Repositorio de GitHub sobre fuentes de material https://github.com/rstudio-education/rstats-ed
+## Education
+* Free teaching sources https://github.com/rstudio-education/rstats-ed
 * Learn the Tidyverse https://www.tidyverse.org/learn/
 
 ## Biology and Environmental Sciences
@@ -138,9 +136,7 @@
 * Resources for Taxonomy and Biodiversity. ROpenSci. https://ropensci.org/blog/2019/03/11/commcall-mar2019/
 * Bioinformatics _Bernard Klaus_ https://www.huber.embl.de/users/klaus/teaching.html#statistical-methods-in-bioinformatics
 
-
 ## Tutorials from different topics
-
 * The coding club https://ourcodingclub.github.io/tutorials/
 * Javascript vs Data science https://software-tools-in-javascript.github.io/js-vs-ds/en/
 * Tutorial: build a blog with Jekyll and GitHub pages https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
