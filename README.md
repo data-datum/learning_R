@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 08-Nov/2018
+_Last Update_ : 24-Jun/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -115,6 +115,7 @@ _Last Update_ : 08-Nov/2018
 * Purrr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
 * Package CRAN Documentation http://bit.ly/2zbuSFz
 * Purrr as part of the tidyverse http://bit.ly/2z6gFcO
+* The joy of Functional Programming _Hadley Wickham_ http://bit.ly/2IC2qCk
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
@@ -131,3 +132,9 @@ _Last Update_ : 08-Nov/2018
 ## Tutorials from different topics
 * The coding club http://bit.ly/2SJzTy7
 * The R class _R programming for biologists_ http://bit.ly/2SD71HA
+
+## R Courses with Tidyverse
+* Tidy Data Science Workshop (Jun-2019) http://bit.ly/2ID1mhV
+* RaukR-2019 http://rstd.io/raukr
+* UC Business Analytics R Programming Guide http://uc-r.github.io/
+
