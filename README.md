@@ -79,6 +79,10 @@ _Last Update_ : 24-Jun/2019
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
 
+## Data Modeling 
+* Hands-on Machine Learning with R http://bit.ly/2IBxTEM
+* Feature Engineering and Selection: A Practical Approach for Predictive Models http://bit.ly/2IEf2Jw 
+
 
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
@@ -135,6 +139,7 @@ _Last Update_ : 24-Jun/2019
 ## Tutorials from different topics
 * The coding club http://bit.ly/2SJzTy7
 * The R class _R programming for biologists_ http://bit.ly/2SD71HA
+* R for NFL analysis http://bit.ly/2ICmqoo
 
 ## R Courses with Tidyverse
 * Tidy Data Science Workshop (Jun-2019) http://bit.ly/2ID1mhV
