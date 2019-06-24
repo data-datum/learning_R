@@ -14,6 +14,7 @@ _Last Update_ : 24-Jun/2019
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 * Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
 * Learning statistics with R: A tutorial for psychology students and other beginners _Danielle Navarro_ http://bit.ly/2DaYoig
+* The Tidynomicon A Brief Introduction to R for Python Programmers _Greg Wilson_ http://bit.ly/2IEh4t8
 
 ## Rstudio
 ### Webinars
