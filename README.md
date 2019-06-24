@@ -47,6 +47,7 @@ _Last Update_ : 24-Jun/2019
 * R studio cheatsheet (data.table) http://bit.ly/2IEwRcM
 * Data crunching with data.table (Rpubs) http://bit.ly/2AbNCGz
 * Best packages for data manipulation in R (dplyr & data.table) http://bit.ly/2AenZox
+* A data.table and dplyr tour http://bit.ly/2IDlIYd
 
 ### String manipulation and stringr package 
 * String Manipulation in R with stringr (Rpubs) http://bit.ly/2SzLyiR
