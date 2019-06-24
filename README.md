@@ -65,6 +65,8 @@ _Last Update_ : 24-Jun/2019
 #### Books 
 * Data Visualization A practical introduction _Kieran Healy_ http://bit.ly/2AaF9n2
 * Data Visualization with R. _Rob Kabacoff_ http://bit.ly/2A9pLaj
+#### Visualization Courses
+* CS 448B Visualization. Stanford CS course on data visualization techniques (Fall 2018) http://bit.ly/2IDzfyW
 
 ## Shiny Web Application
 * Rstudio Resources http://bit.ly/2QOovPq
@@ -75,6 +77,7 @@ _Last Update_ : 24-Jun/2019
 * Developing and deploying large scale Shiny applications _Herman Sontrop_ [video] http://bit.ly/2QT8rMx
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
+* Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
 
 
 ## R Markdown
@@ -109,7 +112,7 @@ _Last Update_ : 24-Jun/2019
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
 
-## purrr Package
+## purrr Package - Functional Programming
 * Happy R Users Purrr – Tutorial _Charlotte Wickham_ [Video] http://bit.ly/2AakkIv
 * Purrr tutorial - _Charlotte Wickham_ http://bit.ly/2AaDCNO
 * Purrr tutorial - _Jenny Bryan_ http://bit.ly/2QSVoLC
@@ -137,4 +140,3 @@ _Last Update_ : 24-Jun/2019
 * Tidy Data Science Workshop (Jun-2019) http://bit.ly/2ID1mhV
 * RaukR-2019 http://rstd.io/raukr
 * UC Business Analytics R Programming Guide http://uc-r.github.io/
-
