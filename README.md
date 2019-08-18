@@ -85,7 +85,6 @@ _Last Update_ : 24-Jun/2019
 * Hands-on Machine Learning with R http://bit.ly/2IBxTEM
 * Feature Engineering and Selection: A Practical Approach for Predictive Models http://bit.ly/2IEf2Jw 
 
-
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
 * R Markdown articles http://bit.ly/2A9LfEe
@@ -93,8 +92,14 @@ _Last Update_ : 24-Jun/2019
 * R Markdown and knitr make it easy to intermingle code and text to generate compelling reports and presentations that are never out of date. [video] http://bit.ly/2A9MH9E
 * Beyond static reports with R Markdown [video] http://bit.ly/2Ac2jtd
 * Introducing Notebooks with R Markdown [video] http://bit.ly/2AaYPXH
+* RMarkdown Tips and Tricks - An Introduction to RMarkdown http://bit.ly/2P1NjaA
+* RMarkdwon Workshop http://bit.ly/2P3kYkt
+
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
+* Introduction to RMarkdown http://bit.ly/2P59GMo
+* RMarkdown for Scientists http://bit.ly/2T2Uca8
+
 
 ## Bookdown & Blogdown
 * Introducing bookdown [video] http://bit.ly/2AbArpc
@@ -103,6 +108,10 @@ _Last Update_ : 24-Jun/2019
 * bookdown: Authoring Books and Technical Documents with R Markdown _Yihui Xie_ http://bit.ly/2QLTZWq
 * blogdown: Creating Websites with R Markdown _Yihui Xie, Amber Thomas, Alison Presmanes Hill_ http://bit.ly/2QPjCpm
 
+## R code Best Practices
+* R Best Practices: R you writing the R way! http://bit.ly/2P2TkE3
+* R Code – Best practices http://bit.ly/2P13Mfq
+* Best Practices for Writing R Code [The Carpentries] http://bit.ly/2P3485h
 
 ## R Package Development
 * Write your first R Package (STAT 545 Course) _Jenny Bryan_ http://bit.ly/2OjiBs2
@@ -115,6 +124,8 @@ _Last Update_ : 24-Jun/2019
 * Writing an R package from scratch http://bit.ly/2QTWZAj
 * Reproducible Research: Writing an R Package. http://bit.ly/2AarXi0 
 * Advanced R Course (Chapter 6: R Packages) _Florian Privé_ http://bit.ly/2QT53kN
+* rOpenSci Packages: Development, Maintenance, and Peer Review http://bit.ly/2P3k7QN
+
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
 
@@ -137,6 +148,7 @@ _Last Update_ : 24-Jun/2019
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
+* Reproducibility in Science - ROpenSci -  http://bit.ly/2P18DgA
 
 ## Tutorials from different topics
 * The coding club http://bit.ly/2SJzTy7
@@ -147,3 +159,4 @@ _Last Update_ : 24-Jun/2019
 * Tidy Data Science Workshop (Jun-2019) http://bit.ly/2ID1mhV
 * RaukR-2019 http://rstd.io/raukr
 * UC Business Analytics R Programming Guide http://uc-r.github.io/
+* STAT 545A/547M: Exploratory Data Analysis http://bit.ly/31fsz0t
