@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 18-Ago/2019
+_Last Update_ : 19-Ago/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -80,6 +80,8 @@ _Last Update_ : 18-Ago/2019
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
+#### Books
+* Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
 
 ## Data Modeling 
 * Hands-on Machine Learning with R http://bit.ly/2IBxTEM
