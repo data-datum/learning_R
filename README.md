@@ -151,6 +151,7 @@ _Last Update_ : 19-Ago/2019
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
 * Reproducibility in Science - ROpenSci -  http://bit.ly/2P18DgA
+* The drake R Package User Manual http://bit.ly/2P4n9nK
 
 ## Tutorials from different topics
 * The coding club http://bit.ly/2SJzTy7
