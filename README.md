@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 19-Ago/2019
+_Last Update_ : 21-Ago/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -152,6 +152,10 @@ _Last Update_ : 19-Ago/2019
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
 * Reproducibility in Science - ROpenSci -  http://bit.ly/2P18DgA
 * The drake R Package User Manual http://bit.ly/2P4n9nK
+
+## Metaprogramming - TidyEval 
+* Tidy evaluation _Lionel Henry & Hadley Wickham_ http://bit.ly/2P5oRFy
+* Lazy evaluation _Jenny Bryan_  [video Rstudio conf 2019] http://bit.ly/2P82pvn [material] http://bit.ly/2PgphbY
 
 ## Tutorials from different topics
 * The coding club http://bit.ly/2SJzTy7
