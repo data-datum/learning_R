@@ -170,4 +170,6 @@ _Last Update_ : 21-Ago/2019
 * Tidy Data Science Workshop (Jun-2019) http://bit.ly/2ID1mhV
 * RaukR-2019 http://rstd.io/raukr
 * UC Business Analytics R Programming Guide http://uc-r.github.io/
-* STAT 545A/547M: Exploratory Data Analysis http://bit.ly/31fsz0t
+* STAT 545A/547M: Exploratory Data Analysis - Jenny Bryan -  http://bit.ly/31fsz0t
+* Data Science in a Box - Mine Çetinkaya-Rundel - http://bit.ly/2PcydPU 
+* R for learning and teaching R _List of resources_ http://bit.ly/2PaIqwc
