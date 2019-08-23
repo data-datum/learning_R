@@ -150,8 +150,12 @@ _Last Update_ : 21-Ago/2019
 
 ## Reproducible Research 
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* http://bit.ly/2SHZqrs
+* Good enough practices in scientific computing _Greg Wilson ... Tracy Teal_| *_PlOS Computational Biology 2017_* http://bit.ly/2zhSSXW
 * Reproducibility in Science - ROpenSci -  http://bit.ly/2P18DgA
 * The drake R Package User Manual http://bit.ly/2P4n9nK
+* rrtools: Tools for Writing Reproducible Research in R - http://bit.ly/2zhMekA
+* Use of an R package to facilitate reproducible research - http://bit.ly/2zhP8G0
+
 
 ## Metaprogramming - TidyEval 
 * Tidy evaluation _Lionel Henry & Hadley Wickham_ http://bit.ly/2P5oRFy
