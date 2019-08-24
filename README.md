@@ -80,8 +80,10 @@ _Last Update_ : 21-Ago/2019
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
+
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
+* Building Big Shiny Apps _Colin Fay_ http://bit.ly/2Pbcub7
 
 ## Data Modeling 
 * Hands-on Machine Learning with R http://bit.ly/2IBxTEM
