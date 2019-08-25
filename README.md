@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 21-Ago/2019
+_Last Update_ : 25-Ago/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
