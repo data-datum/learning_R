@@ -74,6 +74,14 @@ _Last Update_ : 25-Ago/2019
 #### Visualization Courses
 * CS 448B Visualization. Stanford CS course on data visualization techniques (Fall 2018) http://bit.ly/2IDzfyW
 
+## Modelization
+### Broom
+* Broom vignette http://bit.ly/2M42z5y
+* Convenient analysis with broom - Alex Hayes - http://bit.ly/2ZdV7e4
+* broom: a package for tidying statistical models into data frames http://bit.ly/2Wi0FBZ
+### Tidymodels
+* A gentle introduction to tidymodels http://bit.ly/2G176QI
+
 ## Shiny Web Application
 * Rstudio Resources http://bit.ly/2QOovPq
 * Building Web Applications in R with Shiny (Datacamp FREE COURSE) http://bit.ly/2QPEyN2
