@@ -36,11 +36,15 @@ _Last Update_ : 21-Ago/2019
 * Getting more out of dplyr SatRday Amsterdam 2018 slides _Suzan Baert_ http://bit.ly/2QXf28I
 * dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
 * STAT 545 Course _Jenny Bryan_ http://bit.ly/2AajX0o
-* Join Functions _Jenny Bryan_  http://bit.ly/2AbUZ0C
 * Let the Data Flow: Pipelines in R with dplyr and magrittr http://bit.ly/2AaVDvz
 * Data Processing with dplyr & tidyr (Rpubs) http://bit.ly/2Aah7Zd
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * dplyr Rstudio cheatsheet http://bit.ly/2IEwRcM
+#### Joins
+* Vignettes for Joins - http://bit.ly/2Zhdsaj
+* Join Functions _Jenny Bryan_  http://bit.ly/2AbUZ0C
+* Joining Data in R with dplyr (Rpubs) http://bit.ly/2ZjTwnm
+* Gif for differrent types of Joins http://bit.ly/2ZixS2L
 
 ### data.table Package 
 * Intro to data.table Package http://bit.ly/2Aa6Yf3
