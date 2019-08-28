@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 25-Ago/2019
+_Last Update_ : 28-Ago/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -40,6 +40,8 @@ _Last Update_ : 25-Ago/2019
 * Data Processing with dplyr & tidyr (Rpubs) http://bit.ly/2Aah7Zd
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * dplyr Rstudio cheatsheet http://bit.ly/2IEwRcM
+* tidylog _Tidylog provides feedback about basic dplyr operations_ http://bit.ly/2MJJUvq
+
 #### Joins
 * Vignettes for Joins - http://bit.ly/2Zhdsaj
 * Join Functions _Jenny Bryan_  http://bit.ly/2AbUZ0C
