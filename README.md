@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 28-Ago/2019
+_Last Update_ : 2-Sept/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -15,6 +15,7 @@ _Last Update_ : 28-Ago/2019
 * Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
 * Learning statistics with R: A tutorial for psychology students and other beginners _Danielle Navarro_ http://bit.ly/2DaYoig
 * The Tidynomicon A Brief Introduction to R for Python Programmers _Greg Wilson_ http://bit.ly/2IEh4t8
+* Rad _R for academics_ http://bit.ly/2UufM8b
 
 ## Rstudio
 ### Webinars
@@ -62,6 +63,7 @@ _Last Update_ : 28-Ago/2019
 
 ## Data Visualization
 ### ggplot2 Package
+* R Graph Gallery http://bit.ly/2UmD3ZN
 * DataCarpentry resources: http://bit.ly/2Aaiwz2
 * Visualización estática e interactiva con ggplot2 y plotly [español] http://bit.ly/2xI2dqH
 * Data Visualization in R http://bit.ly/2AaKzy9
@@ -98,6 +100,7 @@ _Last Update_ : 28-Ago/2019
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
 * Building Big Shiny Apps _Colin Fay_ http://bit.ly/2Pbcub7
+* Interactive web-based data visualization with R, plotly, and shiny http://bit.ly/2IBuR3m
 
 ## Data Modeling 
 * Hands-on Machine Learning with R http://bit.ly/2IBxTEM
