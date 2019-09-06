@@ -1,7 +1,7 @@
 # Learning R - Resources 
 
 
-_Last Update_ : 2-Sept/2019
+_Last Update_ : 6-Sept/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
@@ -15,7 +15,7 @@ _Last Update_ : 2-Sept/2019
 * Learning statistics with R: A tutorial for psychology students and other beginners _Danielle Navarro_ http://bit.ly/2DaYoig
 * The Tidynomicon A Brief Introduction to R for Python Programmers _Greg Wilson_ http://bit.ly/2IEh4t8
 * Rad _R for academics_ http://bit.ly/2UufM8b
-_Español_
+#### _Español_
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_   http://bit.ly/2N2Y1Y8
 * R para Principiantes _Juan Bosco Mendoza Vega_ http://bit.ly/2Zg0I3M
 
