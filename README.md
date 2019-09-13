@@ -117,6 +117,7 @@ _Last Update_ : 6-Sept/2019
 * Introducing Notebooks with R Markdown [video] http://bit.ly/2AaYPXH
 * RMarkdown Tips and Tricks - An Introduction to RMarkdown http://bit.ly/2P1NjaA
 * RMarkdwon Workshop http://bit.ly/2P3kYkt
+* Reproducible Reporting http://bit.ly/2A9MH9E
 
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
