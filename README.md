@@ -87,6 +87,16 @@ _Last Update_ : 12-Sept/2019
 * broom: a package for tidying statistical models into data frames http://bit.ly/2Wi0FBZ
 ### Tidymodels
 * A gentle introduction to tidymodels http://bit.ly/2G176QI
+### Parsnip
+
+### H2o.ai
+* Auto Machine Learning with H2o.ai #LatinR2019 _Erin Ledell_ http://bit.ly/35nDEQ7
+* Youtube Channel http://bit.ly/2ogLiep
+
+### Data Modeling 
+* Hands-on Machine Learning with R http://bit.ly/2IBxTEM
+* Feature Engineering and Selection: A Practical Approach for Predictive Models http://bit.ly/2IEf2Jw 
+
 
 ## Shiny Web Application
 * Rstudio Resources http://bit.ly/2QOovPq
@@ -104,9 +114,7 @@ _Last Update_ : 12-Sept/2019
 * Building Big Shiny Apps _Colin Fay_ http://bit.ly/2Pbcub7
 * Interactive web-based data visualization with R, plotly, and shiny http://bit.ly/2IBuR3m
 
-## Data Modeling 
-* Hands-on Machine Learning with R http://bit.ly/2IBxTEM
-* Feature Engineering and Selection: A Practical Approach for Predictive Models http://bit.ly/2IEf2Jw 
+
 
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
@@ -149,6 +157,7 @@ _Last Update_ : 12-Sept/2019
 * Reproducible Research: Writing an R Package. http://bit.ly/2AarXi0 
 * Advanced R Course (Chapter 6: R Packages) _Florian Privé_ http://bit.ly/2QT53kN
 * rOpenSci Packages: Development, Maintenance, and Peer Review http://bit.ly/2P3k7QN
+* R Package Development Tutorial #LatinR2019 _Hadley Wickham_ https://github.com/hadley/pkg-dev
 
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
