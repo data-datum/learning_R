@@ -4,7 +4,6 @@
 _Last Update_ : 2-Nov/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
-* Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
 * What they forgot to teach you about R _Jenny Bryan_ https://rstats.wtf/
 
 ### Books
