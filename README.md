@@ -5,6 +5,8 @@ _Last Update_ : 10-Oct/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * Datacamp (Free) Course Introduction to R http://bit.ly/2QTXMkv
+* What they forgot to teach you about R _Jenny Bryan_ https://rstats.wtf/
+
 ### Books
 * R Programming for Data Science _Roger D. Peng_ 2016-12-22 http://bit.ly/2AbQRhd
 * R for Data Science _Garrett Grolemund & Hadley Wickham_ http://bit.ly/2AaFWEw
@@ -15,6 +17,7 @@ _Last Update_ : 10-Oct/2019
 * Learning statistics with R: A tutorial for psychology students and other beginners _Danielle Navarro_ http://bit.ly/2DaYoig
 * The Tidynomicon A Brief Introduction to R for Python Programmers _Greg Wilson_ http://bit.ly/2IEh4t8
 * Rad _R for academics_ http://bit.ly/2UufM8b
+
 #### _Español_
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_   http://bit.ly/2N2Y1Y8
 * R para Principiantes _Juan Bosco Mendoza Vega_ http://bit.ly/2Zg0I3M
@@ -136,6 +139,7 @@ _Last Update_ : 10-Oct/2019
 ## Bookdown & Blogdown
 * Introducing bookdown [video] http://bit.ly/2AbArpc
 * Introducing blogdown, a new R package to make blogs and websites with R Markdown [video] http://bit.ly/2AamVSt
+* A week of blogdown for RStudio's summer 2019 interns _Alison Hill_ https://summer-of-blogdown.netlify.com/
 ### Books
 * bookdown: Authoring Books and Technical Documents with R Markdown _Yihui Xie_ http://bit.ly/2QLTZWq
 * blogdown: Creating Websites with R Markdown _Yihui Xie, Amber Thomas, Alison Presmanes Hill_ http://bit.ly/2QPjCpm
