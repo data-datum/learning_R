@@ -89,7 +89,6 @@ _Last Update_ : 2-Nov/2019
 * broom: a package for tidying statistical models into data frames http://bit.ly/2Wi0FBZ
 ### Tidymodels
 * A gentle introduction to tidymodels http://bit.ly/2G176QI
-### Parsnip
 
 ### H2o.ai
 * Auto Machine Learning with H2o.ai #LatinR2019 _Erin Ledell_ http://bit.ly/35nDEQ7
@@ -102,7 +101,6 @@ _Last Update_ : 2-Nov/2019
 
 ## Shiny Web Application
 * Rstudio Resources http://bit.ly/2QOovPq
-* Building Web Applications in R with Shiny (Datacamp FREE COURSE) http://bit.ly/2QPEyN2
 * Introduction to Shiny [video] http://bit.ly/2Aat9BQ
 * Testing Shiny applications with Shinytest - Shiny developers now have tools for automated testing of complete applications [video] http://bit.ly/2AauJUq
 * Understanding PCA using Shiny and Stack Overflow data _Julia Silge_ [video] http://bit.ly/2QLmG5K
