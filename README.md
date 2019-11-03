@@ -159,6 +159,7 @@ _Last Update_ : 2-Nov/2019
 * Advanced R Course (Chapter 6: R Packages) _Florian Privé_ http://bit.ly/2QT53kN
 * rOpenSci Packages: Development, Maintenance, and Peer Review http://bit.ly/2P3k7QN
 * R Package Development Tutorial #LatinR2019 _Hadley Wickham_ https://github.com/hadley/pkg-dev
+* Make an R Package - the easy way - _Matt Dray_  http://bit.ly/2PCEhQh
 
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
