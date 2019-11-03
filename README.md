@@ -160,6 +160,7 @@ _Last Update_ : 2-Nov/2019
 * rOpenSci Packages: Development, Maintenance, and Peer Review http://bit.ly/2P3k7QN
 * R Package Development Tutorial #LatinR2019 _Hadley Wickham_ https://github.com/hadley/pkg-dev
 * Make an R Package - the easy way - _Matt Dray_  http://bit.ly/2PCEhQh
+* Usethis package development workflow http://bit.ly/2pzuoIg
 
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
