@@ -207,3 +207,4 @@ _Last Update_ : 2-Nov/2019
 * STAT 545A/547M: Exploratory Data Analysis - Jenny Bryan -  http://bit.ly/31fsz0t
 * Data Science in a Box - Mine Çetinkaya-Rundel - http://bit.ly/2PcydPU 
 * R for learning and teaching R _List of resources_ http://bit.ly/2PaIqwc
+* BIMS8382 Spring 2018 https://bims8382.github.io/2018/
