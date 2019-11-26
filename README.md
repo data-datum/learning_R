@@ -211,3 +211,4 @@ _Last Update_ : 25-Nov/2019
 * Data Science in a Box - Mine Çetinkaya-Rundel - http://bit.ly/2PcydPU 
 * R for learning and teaching R _List of resources_ http://bit.ly/2PaIqwc
 * BIMS8382 Spring 2018 https://bims8382.github.io/2018/
+* Course materials for Applied Machine Learning course in 2019 in London https://github.com/topepo/aml-london-2019
