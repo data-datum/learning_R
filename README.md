@@ -1,7 +1,6 @@
 # Learning R - Resources 
 
-
-_Last Update_ : 2-Nov/2019
+_Last Update_ : 25-Nov/2019
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * What they forgot to teach you about R _Jenny Bryan_ https://rstats.wtf/
@@ -76,9 +75,14 @@ _Last Update_ : 2-Nov/2019
 * ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
+* Designing ggplots making clear figures that communicate bit.ly/ggplots
+
 #### Books 
 * Data Visualization A practical introduction _Kieran Healy_ http://bit.ly/2AaF9n2
 * Data Visualization with R. _Rob Kabacoff_ http://bit.ly/2A9pLaj
+* ggplot2: Elegant Graphics for Data Analysis _Hadley Wickham_ https://ggplot2-book.org/
+
+
 #### Visualization Courses
 * CS 448B Visualization. Stanford CS course on data visualization techniques (Fall 2018) http://bit.ly/2IDzfyW
 
@@ -114,8 +118,6 @@ _Last Update_ : 2-Nov/2019
 * Building Big Shiny Apps _Colin Fay_ http://bit.ly/2Pbcub7
 * Interactive web-based data visualization with R, plotly, and shiny http://bit.ly/2IBuR3m
 
-
-
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
 * R Markdown articles http://bit.ly/2A9LfEe
@@ -126,6 +128,7 @@ _Last Update_ : 2-Nov/2019
 * RMarkdown Tips and Tricks - An Introduction to RMarkdown http://bit.ly/2P1NjaA
 * RMarkdwon Workshop http://bit.ly/2P3kYkt
 * Reproducible Reporting http://bit.ly/2A9MH9E
+* 15 Tips on Making Better Use of R Markdown _Yihui Xie_ https://slides.yihui.org/2019-dahshu-rmarkdown#1
 
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
