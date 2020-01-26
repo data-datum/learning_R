@@ -39,7 +39,7 @@ _Last Update_ : 25-Nov/2019
 * dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
 * Getting more out of dplyr SatRday Amsterdam 2018 slides _Suzan Baert_ http://bit.ly/2QXf28I
 * dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
-* STAT 545 Course _Jenny Bryan_ http://bit.ly/2AajX0o
+* STAT 545 Course https://stat545.com/tidy-data.html
 * Let the Data Flow: Pipelines in R with dplyr and magrittr http://bit.ly/2AaVDvz
 * Data Processing with dplyr & tidyr (Rpubs) http://bit.ly/2Aah7Zd
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
