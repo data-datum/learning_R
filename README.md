@@ -93,6 +93,8 @@ _Last Update_ : 26-Jan/2020
 * broom: a package for tidying statistical models into data frames http://bit.ly/2Wi0FBZ
 ### Tidymodels
 * A gentle introduction to tidymodels http://bit.ly/2G176QI
+* Tutorial on tidymodels for Machine Learning https://bit.ly/37iyQwC
+
 
 ### H2o.ai
 * Auto Machine Learning with H2o.ai #LatinR2019 _Erin Ledell_ http://bit.ly/35nDEQ7
@@ -175,6 +177,7 @@ _Last Update_ : 26-Jan/2020
 * Package CRAN Documentation http://bit.ly/2zbuSFz
 * Purrr as part of the tidyverse http://bit.ly/2z6gFcO
 * The joy of Functional Programming _Hadley Wickham_ http://bit.ly/2IC2qCk
+* Purrr - tips and tricks https://bit.ly/2AWODF6
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
