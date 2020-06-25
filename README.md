@@ -116,6 +116,7 @@ _Last Update_ : 25-June/2020
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
 * Javascript for Shiny Users https://github.com/rstudio-conf-2020/js-for-shiny 
+* Interactive web applications with Shiny - meetup material https://bit.ly/2B0Eacq
 
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
@@ -180,6 +181,8 @@ _Last Update_ : 25-June/2020
 * Purrr as part of the tidyverse http://bit.ly/2z6gFcO
 * The joy of Functional Programming _Hadley Wickham_ http://bit.ly/2IC2qCk
 * Purrr - tips and tricks https://bit.ly/2AWODF6
+* Two examples of iteration with purrr - Class for the R-Studio certification  https://bit.ly/3dzWKoK
+
 
 ## How to write functions in R. 
 * Jenny Bryan's STAT 545 Course http://bit.ly/2QGCtnc 
