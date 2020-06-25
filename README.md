@@ -114,6 +114,7 @@ _Last Update_ : 10-June/2020
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
+* Javascript for Shiny Users https://github.com/rstudio-conf-2020/js-for-shiny 
 
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
