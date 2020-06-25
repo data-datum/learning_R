@@ -1,6 +1,6 @@
 # Learning R - Resources 
 
-_Last Update_ : 10-June/2020
+_Last Update_ : 25-June/2020
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * What they forgot to teach you about R _Jenny Bryan_ https://rstats.wtf/
