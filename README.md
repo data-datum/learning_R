@@ -1,6 +1,10 @@
 # Learning R - Resources 
 
-_Last Update_ : 25-June/2020
+_Last Update_ : 16-July/2020
+
+## Cursos
+* Listas de cursos https://www.learnr4free.com/en/index.html
+
 ## R Programming
 * CRAN Contributed Documentation https://cran.r-project.org/
 * What they forgot to teach you about R _Jenny Bryan_ https://rstats.wtf/
