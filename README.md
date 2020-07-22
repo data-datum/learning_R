@@ -114,6 +114,7 @@ _Last Update_ : 22-July/2020
 * Javascript for Shiny Users https://github.com/rstudio-conf-2020/js-for-shiny 
 * Interactive web applications with Shiny - meetup material https://bit.ly/2B0Eacq
 * Production-grade Shiny Apps with golem - rstudio::conf2019 talk https://bit.ly/30G685J
+* Building Big Shiny Apps — A Workflow – [1/2](https://bit.ly/32Hr0MN) [2/2](https://bit.ly/3jvlxP8) 
 
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
