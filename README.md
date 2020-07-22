@@ -83,7 +83,7 @@ _Last Update_ : 16-July/2020
 #### Visualization Courses
 * CS 448B Visualization. Stanford CS course on data visualization techniques (Fall 2018) http://bit.ly/2IDzfyW
 
-## Modelization
+## Modeling
 ### Broom
 * Broom vignette http://bit.ly/2M42z5y
 * Convenient analysis with broom - Alex Hayes - http://bit.ly/2ZdV7e4
