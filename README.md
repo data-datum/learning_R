@@ -24,15 +24,7 @@ _Last Update_ : 16-July/2020
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_   http://bit.ly/2N2Y1Y8
 * R para Principiantes _Juan Bosco Mendoza Vega_ http://bit.ly/2Zg0I3M
 
-## Rstudio
-### Webinars
-* Programming - Part 1 (Writing code in RStudio) http://bit.ly/2AaZ4Cf
-* Programming - Part 2 ((Debugging code in RStudio) http://bit.ly/2AaifvV
-* Programming - Part 3 (Package writing in RStudio) http://bit.ly/2AayPfq
-* Managing - Part 1 (Projects in RStudio) http://bit.ly/2Abo3We
-* Managing - Part 2 (Github and RStudio) http://bit.ly/2A9Pu2D
-* Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
-* Debugging techniques in RStudio _Amanda Gadrow_ [video] http://bit.ly/2QQD4C2
+## Rstudio [webinars](https://rstudio.com/resources/webinars/)
 
 ## Data Manipulation 
 ### tidyr and dplyr Packages
