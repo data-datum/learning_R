@@ -1,6 +1,6 @@
 # Learning R - Resources 
 
-_Last Update_ : 16-July/2020
+_Last Update_ : 22-July/2020
 
 ## Cursos
 * Listas de cursos https://www.learnr4free.com/en/index.html
@@ -113,10 +113,10 @@ _Last Update_ : 16-July/2020
 * Interactive web-based data visualization with R, plotly, and shiny https://plotly-r.com/
 * Javascript for Shiny Users https://github.com/rstudio-conf-2020/js-for-shiny 
 * Interactive web applications with Shiny - meetup material https://bit.ly/2B0Eacq
+* Production-grade Shiny Apps with golem - rstudio::conf2019 talk https://bit.ly/30G685J
 
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
-* Building Big Shiny Apps _Colin Fay_ http://bit.ly/2Pbcub7
 * Interactive web-based data visualization with R, plotly, and shiny http://bit.ly/2IBuR3m
 
 ## R Markdown
