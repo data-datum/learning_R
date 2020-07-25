@@ -1,6 +1,6 @@
 # Learning R - Resources 
 
-_Last Update_ : 22-July/2020
+_Last Update_ : 25-July/2020
 
 ## Cursos
 * Listas de cursos https://www.learnr4free.com/en/index.html
@@ -116,6 +116,8 @@ _Last Update_ : 22-July/2020
 * Production-grade Shiny Apps with golem - rstudio::conf2019 talk https://bit.ly/30G685J
 * Building Big Shiny Apps — A Workflow – [1/2](https://bit.ly/32Hr0MN) [2/2](https://bit.ly/3jvlxP8) 
 * Building a Shiny App as a Package https://bit.ly/30EgTpb
+* Testing shiny Apss https://speakerdeck.com/colinfay/erum-2020-testing-shiny-why-what-and-how 
+* A gRadual introduction to Shiny. https://laderast.github.io/gradual_shiny/index.html
 
 #### Books
 * Mastering Shiny _Hadley Wickham_ http://bit.ly/2z89f9l
